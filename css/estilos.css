@@ -1,0 +1,14 @@
+.container {
+    color: blue;
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(184, 164, 164);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecera {
+    color: white;
+    background-color: blue;
+    box-shadow: 10px 10px 5px 0px rgba (0, 0, 0, 0, 75);
+}
